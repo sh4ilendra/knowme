@@ -1,5 +1,5 @@
 # shailendra.io
-Portfolio website showcasing my skills : https://sh4ilendra.github.io/shailendra.io/
+Portfolio website showcasing my skills : https://sh4ilendra.github.io/knowme/
 
 Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 
